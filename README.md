@@ -254,3 +254,11 @@ The full response would be look like this:
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
+## Contributing
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).

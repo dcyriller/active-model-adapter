@@ -95,4 +95,4 @@ Syntax:
 
 And in case we didn't emphasize it enough: we love tests!
 
-NOTE: Partially copied from https://raw.github.com/thoughtbot/factory_girl_rails/master/CONTRIBUTING.md
+NOTE: Partially copied from https://raw.github.com/thoughtbot/factory_bot_rails/master/CONTRIBUTING.md
