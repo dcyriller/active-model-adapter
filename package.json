@@ -1,11 +1,11 @@
 {
   "name": "active-model-adapter",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "2.2.0",
+  "description": "Adapters and Serializers for Rails's ActiveModel::Serializers",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/ember-data/active-model-adapter",
   "license": "MIT",
   "author": "",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.20.5",
-    "ember-cli-htmlbars": "^5.1.2",
+    "ember-inflector": "^2.0.0",
     "ember-cli-typescript": "^3.1.4"
   },
   "devDependencies": {
@@ -41,6 +41,8 @@
     "@typescript-eslint/parser": "^3.1.0",
     "ember-cli": "^3.18.0",
     "ember-cli-dependency-checker": "^3.2.0",
+    "ember-cli-htmlbars": "^5.1.2",
+    "ember-cli-htmlbars-inline-precompile": "^1.0.2",
     "ember-cli-inject-live-reload": "^2.0.2",
     "ember-cli-sri": "^2.1.1",
     "ember-cli-typescript-blueprints": "^3.0.0",
